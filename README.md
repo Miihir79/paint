@@ -1,5 +1,5 @@
-# paint
-paint like application made by using turtle module. 
+# Paint
+Paint like application made by using turtle module. 
 It is a basic project and with limited functionality 
 
 * Has various colors 
