@@ -9,7 +9,8 @@ It is a basic project and with limited functionality
 * Free hand drawing
 
 ## What do you need to get started?
-Latest version of any code editor and python. Then install turtle and other libraries which are used.
+Latest version of any code editor and python. Then install turtle and other libraries which are used. <br>
+Get the code from <a href="https://github.com/Miihir79/Paint-1">here</a>
 
 ## How to contribute?
 All contributions are welcomed, Properly describe changes made and attach supporting ScreenShots in the PR. For major changes first open an issue.
